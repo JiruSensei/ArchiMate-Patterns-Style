@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sandbox"
+    id="6248aa82-eaa4-4fee-a99d-2eebd1f3ccd4">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f1ece5bb-89fb-4d9b-a1f4-ec5e35ed96c1"
+      textPosition="1">
+    <bounds
+        x="333"
+        y="312"
+        width="148"
+        height="63"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_8d4791a2-a787-44fb-ba5a-522dfffb5035.xml#8d4791a2-a787-44fb-ba5a-522dfffb5035"/>
+  </children>
+</archimate:ArchimateDiagramModel>

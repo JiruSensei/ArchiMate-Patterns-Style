@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="intermediary contract"
+    id="916cc371-8ca8-41f2-888e-71a9d30354d8">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_84021d18-240d-4e83-a465-710fb7657b11.xml#84021d18-240d-4e83-a465-710fb7657b11"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_4758bfdf-0a11-43be-876b-d3c3d1b2cc73.xml#4758bfdf-0a11-43be-876b-d3c3d1b2cc73"/>
+</archimate:FlowRelationship>

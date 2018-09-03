@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Roles"
+    id="2d9c695e-c67e-47e8-85c6-a6e6265178c4">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="04c81264-fb51-4ac1-aced-ef775443422b"
+      fillColor="#eeebf0">
+    <bounds
+        x="336"
+        y="48"
+        width="457"
+        height="373"/>
+    <archimateElement
+        xsi:type="archimate:Artifact"
+        href="Artifact_deb374e6-082b-4a8d-82c6-225cdd399ba2.xml#deb374e6-082b-4a8d-82c6-225cdd399ba2"/>
+  </children>
+</archimate:ArchimateDiagramModel>

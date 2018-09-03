@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Deliverable"
+    id="81c9c681-a028-4fa1-ae5f-211804880830">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c5c1387f-b5ad-4b8a-9fb1-83a820dca9a2">
+    <bounds
+        x="436"
+        y="347"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Deliverable"
+        href="Deliverable_a775a0b0-f5b2-4ee7-a973-8e20447567ad.xml#a775a0b0-f5b2-4ee7-a973-8e20447567ad"/>
+  </children>
+</archimate:ArchimateDiagramModel>

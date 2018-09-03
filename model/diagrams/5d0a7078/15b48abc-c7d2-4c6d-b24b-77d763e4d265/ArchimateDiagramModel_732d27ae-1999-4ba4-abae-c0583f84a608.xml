@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapping - Control Requirement"
+    id="732d27ae-1999-4ba4-abae-c0583f84a608">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="29913af2-1d5c-407f-acb4-19adcdfafa65"
+      textPosition="1">
+    <bounds
+        x="433"
+        y="261"
+        width="216"
+        height="76"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_5e1ad88e-f976-4124-a4f5-916ab6e78fcb.xml#5e1ad88e-f976-4124-a4f5-916ab6e78fcb"/>
+  </children>
+</archimate:ArchimateDiagramModel>

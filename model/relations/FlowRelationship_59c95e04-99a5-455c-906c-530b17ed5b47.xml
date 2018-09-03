@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="payment"
+    id="59c95e04-99a5-455c-906c-530b17ed5b47">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_de44cdb4-066e-4b3d-86d9-3abb5077156d.xml#de44cdb4-066e-4b3d-86d9-3abb5077156d"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_0d6ff692-133a-446f-955c-a03fb9f92e90.xml#0d6ff692-133a-446f-955c-a03fb9f92e90"/>
+</archimate:FlowRelationship>

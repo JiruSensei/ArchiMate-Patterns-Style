@@ -1,0 +1,43 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zone"
+    id="a0d07089-2a15-40bd-9357-49f3a5888d33">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b6e6a82e-7c74-4613-a063-656025518cbe"
+      targetConnections="3b073e0f-c6ea-41e1-a6ed-51af5b14fc5b"
+      font="1|Lucida Grande|18.0|0|COCOA|1|LucidaGrande"
+      textPosition="1">
+    <bounds
+        x="348"
+        y="264"
+        width="205"
+        height="97"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_e7a435fd-ec73-41c8-a934-a29fccde7ed3.xml#e7a435fd-ec73-41c8-a934-a29fccde7ed3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="645f1b89-33b8-482f-be08-28ee1ce55d90"
+      textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="3b073e0f-c6ea-41e1-a6ed-51af5b14fc5b"
+        source="645f1b89-33b8-482f-be08-28ee1ce55d90"
+        target="b6e6a82e-7c74-4613-a063-656025518cbe">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_9c911407-f3b7-40ee-bc79-4023096242a4.xml#9c911407-f3b7-40ee-bc79-4023096242a4"/>
+    </sourceConnections>
+    <bounds
+        x="144"
+        y="264"
+        width="120"
+        height="97"/>
+    <archimateElement
+        xsi:type="archimate:BusinessRole"
+        href="BusinessRole_a0868205-1348-4c06-97b9-a986018bb7a2.xml#a0868205-1348-4c06-97b9-a986018bb7a2"/>
+  </children>
+</archimate:ArchimateDiagramModel>

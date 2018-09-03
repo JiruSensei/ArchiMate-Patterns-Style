@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="has identify a strategy"
+    id="51851c78-198d-431f-a2e6-e98a44968362">
+  <source
+      xsi:type="archimate:Stakeholder"
+      href="Stakeholder_2333c0ef-d818-4325-9ab0-b012dea0eb3a.xml#2333c0ef-d818-4325-9ab0-b012dea0eb3a"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_e7cc034f-c27e-4b4f-9d16-89b446b72d50.xml#e7cc034f-c27e-4b4f-9d16-89b446b72d50"/>
+</archimate:AssociationRelationship>

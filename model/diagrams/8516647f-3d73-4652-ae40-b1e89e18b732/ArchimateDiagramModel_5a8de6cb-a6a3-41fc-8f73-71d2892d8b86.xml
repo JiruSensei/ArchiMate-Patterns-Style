@@ -1,0 +1,37 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Stakeholder Properties"
+    id="5a8de6cb-a6a3-41fc-8f73-71d2892d8b86"
+    viewpoint="stakeholder">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b2fa40c1-2ef0-45d0-b7ac-368d5a34b5cd"
+      targetConnections="ca3030cb-45c7-4985-961e-d6bba6280fa3"
+      textPosition="1">
+    <bounds
+        x="264"
+        y="300"
+        width="133"
+        height="62"/>
+    <archimateElement
+        xsi:type="archimate:Stakeholder"
+        href="Stakeholder_81994c3a-9801-4c96-a122-6b9c92fc1e87.xml#81994c3a-9801-4c96-a122-6b9c92fc1e87"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ba739814-bfc1-40bb-85ed-8e2e6000e05d"
+      fillColor="#f0f7c4"
+      content="Influence: 6&#xA;Affected: 3&#xA;Involved: 9&#xA;"
+      textPosition="1">
+    <sourceConnections
+        id="ca3030cb-45c7-4985-961e-d6bba6280fa3"
+        source="ba739814-bfc1-40bb-85ed-8e2e6000e05d"
+        target="b2fa40c1-2ef0-45d0-b7ac-368d5a34b5cd"/>
+    <bounds
+        x="420"
+        y="228"
+        width="97"
+        height="54"/>
+  </children>
+</archimate:ArchimateDiagramModel>

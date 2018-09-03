@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Projet"
+    id="fca93849-cc45-4d3c-bcb2-b83dafa2cd11">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4885b54d-8773-4c95-b245-2fbc3e4ca6dd"
+      textPosition="1">
+    <bounds
+        x="354"
+        y="294"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_22e155e5-53ff-47ec-91d5-b58d36466cb4.xml#22e155e5-53ff-47ec-91d5-b58d36466cb4"/>
+  </children>
+</archimate:ArchimateDiagramModel>

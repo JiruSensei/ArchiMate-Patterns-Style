@@ -1,0 +1,31 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Migration Viewpoint"
+    id="3a4d1a74-9f5d-4a48-a042-af03201e7235"
+    viewpoint="migration">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9e1ae3f0-7030-4d93-b4cd-07793d60f01c">
+    <bounds
+        x="251"
+        y="302"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_61ffad2c-4aaa-4ed2-8ac1-a042441616fb.xml#61ffad2c-4aaa-4ed2-8ac1-a042441616fb"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ac7293d9-e024-47d8-b79f-6c78f20b8a03">
+    <bounds
+        x="251"
+        y="432"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Gap"
+        href="Gap_e6214a99-3c04-45a9-a31d-65a1a05e4249.xml#e6214a99-3c04-45a9-a31d-65a1a05e4249"/>
+  </children>
+</archimate:ArchimateDiagramModel>

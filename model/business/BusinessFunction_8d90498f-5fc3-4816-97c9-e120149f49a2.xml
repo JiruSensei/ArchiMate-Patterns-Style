@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zone"
+    id="8d90498f-5fc3-4816-97c9-e120149f49a2">
+  <properties
+      key="icon"
+      value="mapping/icon-zone-2x.png"/>
+</archimate:BusinessFunction>

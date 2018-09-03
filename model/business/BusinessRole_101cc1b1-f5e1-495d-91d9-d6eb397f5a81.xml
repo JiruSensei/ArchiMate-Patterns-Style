@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fonction A"
+    id="101cc1b1-f5e1-495d-91d9-d6eb397f5a81">
+  <properties
+      key="icon"
+      value="mapping/icon-f(x).png"/>
+</archimate:BusinessRole>

@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapping - Threat Event"
+    id="5eb346a0-9b3f-4c67-8d4c-b0e8508a0af2">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b4550326-587a-411a-9cda-2c601bc99a99"
+      textPosition="1"
+      type="1">
+    <bounds
+        x="255"
+        y="370"
+        width="154"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_598f0c92-ba6a-46a7-b6e6-3eac9fbed14f.xml#598f0c92-ba6a-46a7-b6e6-3eac9fbed14f"/>
+  </children>
+</archimate:ArchimateDiagramModel>

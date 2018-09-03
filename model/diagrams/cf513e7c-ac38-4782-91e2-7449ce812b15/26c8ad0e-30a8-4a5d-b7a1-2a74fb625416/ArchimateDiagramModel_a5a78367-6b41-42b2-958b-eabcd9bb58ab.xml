@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mission Métier"
+    id="a5a78367-6b41-42b2-958b-eabcd9bb58ab">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="803aebbb-0870-4b06-8c7e-231b9add1367"
+      textPosition="1">
+    <bounds
+        x="374"
+        y="295"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_0dc99758-cad2-4d1f-b0d7-78a4d0a0feb8.xml#0dc99758-cad2-4d1f-b0d7-78a4d0a0feb8"/>
+  </children>
+</archimate:ArchimateDiagramModel>

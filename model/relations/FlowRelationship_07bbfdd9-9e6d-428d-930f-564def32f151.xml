@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MRI images"
+    id="07bbfdd9-9e6d-428d-930f-564def32f151">
+  <source
+      xsi:type="archimate:Facility"
+      href="Facility_bbe021f5-113d-471f-a225-5ad41ddb82a4.xml#bbe021f5-113d-471f-a225-5ad41ddb82a4"/>
+  <target
+      xsi:type="archimate:Facility"
+      href="Facility_709ccb46-3a65-4c33-a822-cbc82142d208.xml#709ccb46-3a65-4c33-a822-cbc82142d208"/>
+</archimate:FlowRelationship>

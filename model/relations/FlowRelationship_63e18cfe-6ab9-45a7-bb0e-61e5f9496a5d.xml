@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="paper claim form"
+    id="63e18cfe-6ab9-45a7-bb0e-61e5f9496a5d">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_4d3b23e7-6566-4138-8f94-46b4863783d4.xml#4d3b23e7-6566-4138-8f94-46b4863783d4"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_4758bfdf-0a11-43be-876b-d3c3d1b2cc73.xml#4758bfdf-0a11-43be-876b-d3c3d1b2cc73"/>
+</archimate:FlowRelationship>

@@ -1,0 +1,46 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Strategic Layer"
+    id="1b0570d1-28b4-4546-90ee-868b9c3f4a79"
+    viewpoint="strategy">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="effa0b8c-0749-4266-8996-eddeb504fe4d"
+      textPosition="1">
+    <bounds
+        x="600"
+        y="142"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_e9ee4847-a32b-4769-b51e-14084442e95b.xml#e9ee4847-a32b-4769-b51e-14084442e95b"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ed6d6e1c-50f3-477c-850c-5ba85ccece5c"
+      textPosition="1">
+    <bounds
+        x="230"
+        y="141"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_0f9cbfff-0fb8-4b91-a989-d4b8fe96d3a8.xml#0f9cbfff-0fb8-4b91-a989-d4b8fe96d3a8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="90f9312c-87f3-44e5-b05e-c53a280eec64"
+      textPosition="1">
+    <bounds
+        x="358"
+        y="142"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_8669fc41-648e-4577-985b-d3b9b2e7a133.xml#8669fc41-648e-4577-985b-d3b9b2e7a133"/>
+  </children>
+</archimate:ArchimateDiagramModel>

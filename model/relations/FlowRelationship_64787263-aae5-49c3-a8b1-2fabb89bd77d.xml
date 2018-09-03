@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Insurance info"
+    id="64787263-aae5-49c3-a8b1-2fabb89bd77d">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_c4555eec-870a-4ee8-9097-4acddacdde23.xml#c4555eec-870a-4ee8-9097-4acddacdde23"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_d887bae1-9a25-4dfd-886d-469266a26bca.xml#d887bae1-9a25-4dfd-886d-469266a26bca"/>
+</archimate:FlowRelationship>

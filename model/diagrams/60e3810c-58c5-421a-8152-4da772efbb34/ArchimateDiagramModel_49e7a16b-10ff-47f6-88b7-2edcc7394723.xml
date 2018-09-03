@@ -1,0 +1,34 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Principles"
+    id="49e7a16b-10ff-47f6-88b7-2edcc7394723">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ee67386f-6eb5-4974-a11b-996f4a8eef48"
+      textPosition="1"
+      type="1">
+    <bounds
+        x="204"
+        y="264"
+        width="145"
+        height="84"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_ca91c6ea-73b7-4220-8414-62408901c704.xml#ca91c6ea-73b7-4220-8414-62408901c704"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="73fd4846-1748-40a4-bbbb-bcfbf6e50979"
+      textPosition="1"
+      type="1">
+    <bounds
+        x="348"
+        y="264"
+        width="169"
+        height="84"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_2074881b-c5d1-43ab-ba89-c2ecb46f0662.xml#2074881b-c5d1-43ab-ba89-c2ecb46f0662"/>
+  </children>
+</archimate:ArchimateDiagramModel>

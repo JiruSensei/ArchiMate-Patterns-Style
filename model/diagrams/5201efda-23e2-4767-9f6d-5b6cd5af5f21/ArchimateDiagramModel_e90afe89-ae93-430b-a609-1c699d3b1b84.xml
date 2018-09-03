@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Plateau"
+    id="e90afe89-ae93-430b-a609-1c699d3b1b84">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="62c78265-7c62-4c15-99ea-f2bd3e38ea83">
+    <bounds
+        x="397"
+        y="265"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Plateau"
+        href="Plateau_a09a0994-f604-4669-afc4-6fe2608fdb0e.xml#a09a0994-f604-4669-afc4-6fe2608fdb0e"/>
+  </children>
+</archimate:ArchimateDiagramModel>

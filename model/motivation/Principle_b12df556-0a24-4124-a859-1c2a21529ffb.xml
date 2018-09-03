@@ -1,0 +1,4 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Le POS est un découpage fonctionnel ; il constitue une partition. C'est-à-dire qu’un objet métier, ou une fonctionnalité n’appartient qu’à un et un seul secteur fonctionnel"
+    id="b12df556-0a24-4124-a859-1c2a21529ffb"/>

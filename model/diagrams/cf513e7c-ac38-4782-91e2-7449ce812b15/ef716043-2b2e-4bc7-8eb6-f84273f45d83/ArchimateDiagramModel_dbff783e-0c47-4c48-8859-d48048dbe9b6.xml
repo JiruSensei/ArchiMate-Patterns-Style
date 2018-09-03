@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fonctionnalité"
+    id="dbff783e-0c47-4c48-8859-d48048dbe9b6">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="72d2e9fa-283f-444c-88eb-8e4da1ea062a"
+      textPosition="1">
+    <bounds
+        x="466"
+        y="229"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessFunction"
+        href="BusinessFunction_19ef56b9-8fe2-4fb2-b988-9fa349fc3c5c.xml#19ef56b9-8fe2-4fb2-b988-9fa349fc3c5c"/>
+  </children>
+</archimate:ArchimateDiagramModel>

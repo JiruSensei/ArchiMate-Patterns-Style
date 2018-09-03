@@ -1,0 +1,45 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="01 - Summary Vue Métier"
+    id="001aab8c-47e6-4fa8-99ab-a37c3e861e86">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e33c45f6-a203-4b97-a475-a711d680a708"
+      textPosition="1">
+    <bounds
+        x="465"
+        y="114"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:CourseOfAction"
+        href="CourseOfAction_a64fd144-b50e-4c7d-9f98-78ed1c20e048.xml#a64fd144-b50e-4c7d-9f98-78ed1c20e048"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a6f1a3ba-19a1-4474-8c2c-9cfada094c45"
+      textPosition="1">
+    <bounds
+        x="467"
+        y="271"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:WorkPackage"
+        href="WorkPackage_fc866dec-6b6b-4f77-a648-4b1923e2a0df.xml#fc866dec-6b6b-4f77-a648-4b1923e2a0df"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8f590c9f-505a-4166-901d-58993e0e8109"
+      textPosition="1">
+    <bounds
+        x="467"
+        y="420"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_d3798d79-814a-40d7-bba0-a37e4734c545.xml#d3798d79-814a-40d7-bba0-a37e4734c545"/>
+  </children>
+</archimate:ArchimateDiagramModel>

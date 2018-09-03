@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapping - Vulnerability"
+    id="1287dccc-016b-463b-bf2c-766153221018">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="cdba9d15-d0ad-4e8c-b6da-d1100d3f976b">
+    <bounds
+        x="330"
+        y="259"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_02d76405-371f-4361-8056-b603ee66e1dd.xml#02d76405-371f-4361-8056-b603ee66e1dd"/>
+  </children>
+</archimate:ArchimateDiagramModel>

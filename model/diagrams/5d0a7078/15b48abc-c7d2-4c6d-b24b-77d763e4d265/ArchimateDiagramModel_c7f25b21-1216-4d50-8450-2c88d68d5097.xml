@@ -1,0 +1,20 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapping - Loss Event"
+    id="c7f25b21-1216-4d50-8450-2c88d68d5097">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="dac5e050-bc96-4079-b08d-f0236b47d284"
+      textPosition="1"
+      type="1">
+    <bounds
+        x="295"
+        y="248"
+        width="150"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_b3a2ad51-f806-4a64-aff7-70a287f7b6b3.xml#b3a2ad51-f806-4a64-aff7-70a287f7b6b3"/>
+  </children>
+</archimate:ArchimateDiagramModel>

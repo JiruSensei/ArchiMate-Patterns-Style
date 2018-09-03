@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Structure B"
+    id="47e1484d-859e-4841-9d83-8a5769ad1bad">
+  <properties
+      key="icon"
+      value="mapping/icon-structure-2x.png"/>
+</archimate:BusinessActor>

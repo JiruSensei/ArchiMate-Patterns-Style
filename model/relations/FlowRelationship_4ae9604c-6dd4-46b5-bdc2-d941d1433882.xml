@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Customer Information"
+    id="4ae9604c-6dd4-46b5-bdc2-d941d1433882">
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_d887bae1-9a25-4dfd-886d-469266a26bca.xml#d887bae1-9a25-4dfd-886d-469266a26bca"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_4dee9c86-925b-42da-930f-9ddc2792b3a1.xml#4dee9c86-925b-42da-930f-9ddc2792b3a1"/>
+</archimate:FlowRelationship>

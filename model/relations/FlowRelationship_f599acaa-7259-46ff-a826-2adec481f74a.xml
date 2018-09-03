@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="electronic contracts"
+    id="f599acaa-7259-46ff-a826-2adec481f74a">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_dc7998a6-074b-4fb2-966b-fcbcf41b81c1.xml#dc7998a6-074b-4fb2-966b-fcbcf41b81c1"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_4758bfdf-0a11-43be-876b-d3c3d1b2cc73.xml#4758bfdf-0a11-43be-876b-d3c3d1b2cc73"/>
+</archimate:FlowRelationship>

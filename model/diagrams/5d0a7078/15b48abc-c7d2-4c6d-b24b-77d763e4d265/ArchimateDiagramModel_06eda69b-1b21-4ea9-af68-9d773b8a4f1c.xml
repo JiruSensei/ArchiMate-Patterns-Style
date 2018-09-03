@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapping - Threat"
+    id="06eda69b-1b21-4ea9-af68-9d773b8a4f1c">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="8d4031c5-b8c6-48bc-8e1f-6f35e19c5730"
+      textPosition="1">
+    <bounds
+        x="432"
+        y="250"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Driver"
+        href="Driver_5c45aa69-f2ab-4f6e-939d-8599aa1e15f5.xml#5c45aa69-f2ab-4f6e-939d-8599aa1e15f5"/>
+  </children>
+</archimate:ArchimateDiagramModel>

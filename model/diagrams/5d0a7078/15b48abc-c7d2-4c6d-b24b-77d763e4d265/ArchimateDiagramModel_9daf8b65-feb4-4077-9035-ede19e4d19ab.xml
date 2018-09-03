@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapping - Risk"
+    id="9daf8b65-feb4-4077-9035-ede19e4d19ab">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="d1f0bfed-d4dd-462f-8947-88ea01f57351"
+      textPosition="1">
+    <bounds
+        x="323"
+        y="284"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Assessment"
+        href="Assessment_56c39665-35dc-4f18-9341-2f6b1a105cfa.xml#56c39665-35dc-4f18-9341-2f6b1a105cfa"/>
+  </children>
+</archimate:ArchimateDiagramModel>

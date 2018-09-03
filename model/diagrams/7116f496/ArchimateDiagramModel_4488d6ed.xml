@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Passive Concepts"
+    id="4488d6ed">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b322298a">
+    <bounds
+        x="327"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessCollaboration"
+        href="BusinessCollaboration_9f10df51.xml#9f10df51"/>
+  </children>
+</archimate:ArchimateDiagramModel>

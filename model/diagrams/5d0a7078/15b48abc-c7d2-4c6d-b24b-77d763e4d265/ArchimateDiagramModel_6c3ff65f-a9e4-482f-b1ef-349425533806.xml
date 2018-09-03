@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapping - Domain"
+    id="6c3ff65f-a9e4-482f-b1ef-349425533806">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3530ba9c-6b50-4cfa-b0f8-da8a40cba4f4"
+      fillColor="#f2f3c0">
+    <bounds
+        x="264"
+        y="204"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_82d8eb20-96b1-4f4a-bb5c-106ae7ea7736.xml#82d8eb20-96b1-4f4a-bb5c-106ae7ea7736"/>
+  </children>
+</archimate:ArchimateDiagramModel>

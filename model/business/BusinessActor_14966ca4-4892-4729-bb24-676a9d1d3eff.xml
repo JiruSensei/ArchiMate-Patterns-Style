@@ -1,0 +1,8 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Personne (m)"
+    id="14966ca4-4892-4729-bb24-676a9d1d3eff">
+  <properties
+      key="icon"
+      value="mapping/icon-people-1x.png"/>
+</archimate:BusinessActor>

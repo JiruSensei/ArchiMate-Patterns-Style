@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="finance"
+    id="7e744f60-a775-4622-a392-9a4611437e9b">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_8fa09536-6804-46e7-a000-2dcb2685b75c.xml#8fa09536-6804-46e7-a000-2dcb2685b75c"/>
+  <target
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_fb670484-cb5d-48cf-8422-379dfa0262bf.xml#fb670484-cb5d-48cf-8422-379dfa0262bf"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapping - Asset at Risk"
+    id="058eff96-61c2-4f41-9e6a-bdc748cb37af">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9c54f722-81e9-4d23-93bb-5b33732329f8"
+      textPosition="1">
+    <bounds
+        x="385"
+        y="270"
+        width="144"
+        height="67"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_9b5b6bd8-b2cc-4922-b361-545a22e6a211.xml#9b5b6bd8-b2cc-4922-b361-545a22e6a211"/>
+  </children>
+</archimate:ArchimateDiagramModel>

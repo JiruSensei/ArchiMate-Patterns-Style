@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="responsabilité"
+    id="0de2c4b0-0cd9-49dd-88c5-f04298a0bd73">
+  <source
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_b55718db-03c0-4090-8dd7-6e826260424b.xml#b55718db-03c0-4090-8dd7-6e826260424b"/>
+  <target
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_8fa09536-6804-46e7-a000-2dcb2685b75c.xml#8fa09536-6804-46e7-a000-2dcb2685b75c"/>
+</archimate:AssociationRelationship>

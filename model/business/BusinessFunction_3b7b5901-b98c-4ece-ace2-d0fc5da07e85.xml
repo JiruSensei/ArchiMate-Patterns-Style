@@ -1,0 +1,8 @@
+<archimate:BusinessFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quarter"
+    id="3b7b5901-b98c-4ece-ace2-d0fc5da07e85">
+  <properties
+      key="icon"
+      value="mapping/icon-quartier-2x.png"/>
+</archimate:BusinessFunction>

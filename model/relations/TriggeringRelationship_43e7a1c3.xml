@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="doubted"
+    id="43e7a1c3">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_28f45d9d.xml#28f45d9d"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_289a2dcf.xml#289a2dcf"/>
+</archimate:TriggeringRelationship>

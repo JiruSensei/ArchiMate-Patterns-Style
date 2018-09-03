@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gap"
+    id="a0f96e87-ef76-46a0-87c4-aa753c633cfc">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0b239fef-86c8-41b0-8cd1-a34a9183c64c"
+      textPosition="1">
+    <bounds
+        x="424"
+        y="298"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Gap"
+        href="Gap_5e459814-cb46-4fa4-99fe-516970827de1.xml#5e459814-cb46-4fa4-99fe-516970827de1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

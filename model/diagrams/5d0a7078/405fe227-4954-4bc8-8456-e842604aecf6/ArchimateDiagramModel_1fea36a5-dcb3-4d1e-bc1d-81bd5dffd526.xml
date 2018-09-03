@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grouping Specialisation"
+    id="1fea36a5-dcb3-4d1e-bc1d-81bd5dffd526">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ab1efcd9-d503-469a-b3a1-3d9cbf053d40"
+      targetConnections="d43b9c0e-50df-479f-b64a-73c1e4cb535b"
+      fillColor="#bcfcc7">
+    <bounds
+        x="276"
+        y="132"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_5172e3c8-c5ab-4722-b7ed-d41a1dc7585e.xml#5172e3c8-c5ab-4722-b7ed-d41a1dc7585e"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1a379089-5b58-4ead-82d3-a064dd3c1d26"
+      fillColor="#edd0fa">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="d43b9c0e-50df-479f-b64a-73c1e4cb535b"
+        source="1a379089-5b58-4ead-82d3-a064dd3c1d26"
+        target="ab1efcd9-d503-469a-b3a1-3d9cbf053d40">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_1762d1a5-3479-41e7-b5e5-b8dcc84ee145.xml#1762d1a5-3479-41e7-b5e5-b8dcc84ee145"/>
+    </sourceConnections>
+    <bounds
+        x="276"
+        y="354"
+        width="400"
+        height="140"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_9684233e-6a1a-42f8-931a-ecc90acf428a.xml#9684233e-6a1a-42f8-931a-ecc90acf428a"/>
+  </children>
+</archimate:ArchimateDiagramModel>

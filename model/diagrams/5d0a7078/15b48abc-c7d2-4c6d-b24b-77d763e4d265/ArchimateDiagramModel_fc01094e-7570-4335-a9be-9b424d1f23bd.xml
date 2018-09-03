@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mapping - Policy"
+    id="fc01094e-7570-4335-a9be-9b424d1f23bd">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9c1b2808-5936-48c1-8c76-8356d91a2e69"
+      textPosition="1">
+    <bounds
+        x="292"
+        y="338"
+        width="141"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Principle"
+        href="Principle_df7d45c1-14a0-4e08-b307-c3e9582a4769.xml#df7d45c1-14a0-4e08-b307-c3e9582a4769"/>
+  </children>
+</archimate:ArchimateDiagramModel>

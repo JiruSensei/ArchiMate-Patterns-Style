@@ -1,0 +1,1 @@
+# Modelling Patterns for Cassandra
